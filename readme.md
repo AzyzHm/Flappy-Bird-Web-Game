@@ -43,7 +43,7 @@ The main HTML file sets up the game container, canvas, overlay UI, and includes 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <href="style.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
   <title>Flappy Bird</title>
 </head>
 <body>
